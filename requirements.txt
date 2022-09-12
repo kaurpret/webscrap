@@ -2,3 +2,5 @@ Python
 pandas
 bs4
 requests
+wkhtmltopdf
+pdfkit
